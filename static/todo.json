@@ -1,0 +1,28 @@
+{
+  "todos": [
+    {
+      "uid": "1",
+      "text": "Buy groceries",
+      "done": false,
+      "pending_delete": false
+    },
+    {
+      "uid": "2",
+      "text": "Finish Cloudflare Pages setup",
+      "done": true,
+      "pending_delete": false
+    },
+    {
+      "uid": "3",
+      "text": "Test SvelteKit SSR deployment",
+      "done": false,
+      "pending_delete": false
+    },
+    {
+      "uid": "4",
+      "text": "Write documentation",
+      "done": false,
+      "pending_delete": false
+    }
+  ]
+}
